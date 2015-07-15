@@ -6,5 +6,6 @@ Rails.application.routes.draw do
   mount protected_app, at: '/frontends'
 
   front_end 'debtonator'
+  front_end 'ted-ed-lesson-creator'
 
 end
