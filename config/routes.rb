@@ -7,5 +7,6 @@ Rails.application.routes.draw do
 
   front_end 'debtonator'
   front_end 'ted-ed-lesson-creator'
+  front_end 'collectrium-room'
 
 end
